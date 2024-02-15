@@ -1,0 +1,3 @@
+Erstelle ein Batch Skript um zu checken ob das System up-to-date ist (Benenne die Dateien mit Versionen um dies zu vereinfachen)
+Wenn ja, beende dieses Programm
+Wenn Nein, Lösche die alten Dateien und Kopiere die neuen von einem File Server oder ähnliches und beende das programm.
